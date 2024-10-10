@@ -1,1 +1,1 @@
-Sum: 2537058, Average: 507411.60
+Minimum Number: -77, Maximum Number: 33
