@@ -13,7 +13,7 @@ int main()
         frequencyArray[array[i]]++;
     }
 
-    for (int i = 1; i < m; i++)
+    for (int i = 1; i <= m; i++)
     {
         printf("%d\n", frequencyArray[i]);
     }
